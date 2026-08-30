@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Flipkart Automation Suite">
+
+    <test name="Flipkart Purchase Test">
+
+        <classes>
+            <class name="darshan.FlipkartTest"/>
+        </classes>
+
+    </test>
+
+</suite>
